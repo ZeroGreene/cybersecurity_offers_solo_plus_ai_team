@@ -1,1 +1,139 @@
+doc code:  
+prompt: please make me a list of all the entry level services a solo cyber security professional can offer a small business?
+g: all solo entry level unpolished offers via chatgpt as of: 11/22/2025
+=========================================
+Below is a comprehensive list of entry-level, safe, and client-ready services a solo cybersecurity professional can offer to small businesses. These focus on practical value without requiring enterprise-grade tooling.
+
+✅ Entry-Level Cybersecurity Services for Small Businesses
+1. Security Assessments (Foundational)
+
+Basic security posture review
+
+Workstation & device security check (OS updates, antivirus status, configurations)
+
+User account & permission review
+
+Cloud account security check (Microsoft 365, Google Workspace, etc.)
+
+Vulnerability scanning (using safe, automated scanners—no exploit work)
+
+2. Policy & Best-Practice Development
+
+Acceptable use policies (AUP)
+
+Password & authentication policy
+
+Remote work & device usage guidelines
+
+Data handling & classification guidelines
+
+Security awareness onboarding materials
+
+3. Cyber Hygiene Improvements
+
+Password manager setup & rollout
+
+Multi-factor authentication (MFA) implementation
+
+Basic network hardening (router configuration, guest networks, DNS filtering)
+
+Backup strategy creation (local + cloud options)
+
+Secure laptop/phone configuration
+
+4. Employee Security Training
+
+Basic cybersecurity awareness workshop
+
+Phishing recognition training
+
+Safe internet & email usage training
+
+Incident reporting process training
+
+Quarterly refresher training
+
+5. Data Protection & Continuity
+
+Backup system selection and deployment
+
+Disaster recovery plan for small environments
+
+Ransomware protection setup (with reputable tools)
+
+Data retention & archiving best practices
+
+6. Cloud Security Services
+
+Microsoft 365 security hardening
+
+Google Workspace security configuration
+
+Secure file sharing setup
+
+Access control review & cleanup
+
+Cloud backup configuration
+
+7. Network & Endpoint Security
+
+Antivirus/endpoint protection setup
+
+Firewall rule review (small office routers)
+
+Secure Wi-Fi configuration
+
+DNS security filtering setup (e.g., Quad9, Cisco Umbrella basic)
+
+8. Monitoring & Maintenance (Lightweight)
+
+Patch & update monitoring
+
+Quarterly security health checks
+
+License tracking (antivirus, cloud subscriptions)
+
+Routine backup integrity testing
+
+9. Compliance-Lite (Non-certifying)
+
+(Not formal audits, but preparation support.)
+
+Basic GDPR alignment steps
+
+HIPAA readiness guidance (not certification)
+
+Cyber insurance questionnaire assistance
+
+Security policy documentation packages
+
+10. Incident Support (Non-forensic)
+
+Basic incident triage
+
+Containment assistance (account lockouts, password resets)
+
+Cleanup guidance (malware removal, credential rotation)
+
+Post-incident recommendations
+
+⭐ Optional “Add-On” Services (Still Entry-Friendly)
+
+Password vault setup for individuals
+
+Website security basics (SSL, admin account hardening)
+
+Secure email setup (DMARC, SPF, DKIM configuration)
+
+Device lifecycle security (secure wipe + disposal)
+
+Vendor security evaluation (quick reviews of tools/services clients want to adopt)
+
+Would you like me to:
+
+turn this into a service menu you can hand to clients?
+
+generate packages (e.g., Bronze / Silver / Gold)?
+
+create pricing tiers appropriate for solo consultants?
 
